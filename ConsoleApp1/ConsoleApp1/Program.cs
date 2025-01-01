@@ -12,6 +12,10 @@ namespace ConsoleApp1
         {
 
             Console.WriteLine("Git hub first project");
+            Console.WriteLine("Hello this is additionally added after first commit");
+
+            Console.WriteLine("Second commit");
+            Console.ReadLine();
         }
     }
 }
