@@ -17,6 +17,9 @@ namespace ConsoleApp1
             Console.WriteLine("Second commit");
 
             Console.WriteLine("Third commit");
+
+            Console.WriteLine("Fourth Commit==========");
+
             Console.ReadLine();
         }
     }
