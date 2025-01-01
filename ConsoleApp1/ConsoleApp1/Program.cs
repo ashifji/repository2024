@@ -15,6 +15,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hello this is additionally added after first commit");
 
             Console.WriteLine("Second commit");
+
+            Console.WriteLine("Third commit");
             Console.ReadLine();
         }
     }
